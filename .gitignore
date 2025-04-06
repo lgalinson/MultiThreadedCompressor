@@ -1,0 +1,12 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Build files
+build/
+dist/
+*.spec
+
+# OS junk
+.DS_Store
+Thumbs.db
